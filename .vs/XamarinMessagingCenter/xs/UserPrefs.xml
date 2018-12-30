@@ -2,11 +2,26 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="XamarinMessagingCenter/TargetPage.xaml.cs">
     <Files>
       <File FileName="XamarinMessagingCenter/MainPage.xaml" Line="5" Column="57" />
-      <File FileName="XamarinMessagingCenter/MainPage.xaml.cs" Line="24" Column="1" />
+      <File FileName="XamarinMessagingCenter/MainPage.xaml.cs" Line="20" Column="84" />
       <File FileName="XamarinMessagingCenter/TargetPage.xaml" Line="4" Column="33" />
-      <File FileName="XamarinMessagingCenter/TargetPage.xaml.cs" Line="6" Column="33" />
-      <File FileName="XamarinMessagingCenter/App.xaml.cs" Line="18" Column="10" />
+      <File FileName="XamarinMessagingCenter/TargetPage.xaml.cs" Line="17" Column="43" />
+      <File FileName="XamarinMessagingCenter/Events.cs" Line="6" Column="72" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinMessagingCenter" expanded="True">
+            <Node name="XamarinMessagingCenter" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="TargetPage.xaml" expanded="True">
+                <Node name="TargetPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.XamarinMessagingCenter.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4DA9CBF-170B-441C-AEFF-5F4291F473E6" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

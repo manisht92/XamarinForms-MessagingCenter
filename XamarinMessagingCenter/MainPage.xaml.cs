@@ -17,7 +17,7 @@ namespace XamarinMessagingCenter
         void Handle_Clicked(object sender, System.EventArgs e)
         {
             Navigation.PushAsync(new TargetPage());
-            MessagingCenter.Subscribe<TargetPage, double>(this, "SliderValueChanged", OnSliderValueChanged);
+            MessagingCenter.Subscribe<TargetPage, double>(this, Events.SliderValueChanged, OnSliderValueChanged);
         }
 
         void OnSliderValueChanged(TargetPage source, double newValue)

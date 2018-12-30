@@ -14,7 +14,7 @@ namespace XamarinMessagingCenter
 
         void Handle_ValueChanged(object sender, Xamarin.Forms.ValueChangedEventArgs e)
         {
-            MessagingCenter.Send(this, "SliderValueChanged", e.NewValue);
+            MessagingCenter.Send(this, Events.SliderValueChanged, e.NewValue);
         }
     }
 }

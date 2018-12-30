@@ -1,0 +1,13 @@
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/bin/Debug/netstandard2.0/XamarinMessagingCenter.deps.json
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/bin/Debug/netstandard2.0/XamarinMessagingCenter.dll
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/bin/Debug/netstandard2.0/XamarinMessagingCenter.pdb
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/obj/Debug/netstandard2.0/XamarinMessagingCenter.csprojAssemblyReference.cache
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/obj/Debug/netstandard2.0/TargetPage.xaml.g.cs
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/obj/Debug/netstandard2.0/XamarinMessagingCenter.csproj.CoreCompileInputs.cache
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/obj/Debug/netstandard2.0/XamarinMessagingCenter.AssemblyInfoInputs.cache
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/obj/Debug/netstandard2.0/XamarinMessagingCenter.AssemblyInfo.cs
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/obj/Debug/netstandard2.0/XamarinMessagingCenter.dll
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinMessagingCenter/XamarinMessagingCenter/obj/Debug/netstandard2.0/XamarinMessagingCenter.pdb

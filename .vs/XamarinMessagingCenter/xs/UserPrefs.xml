@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{76F5C776-A7FA-459A-91AB-778F27139014}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinMessagingCenter/TargetPage.xaml.cs">
+    <Files>
+      <File FileName="XamarinMessagingCenter/MainPage.xaml" Line="5" Column="57" />
+      <File FileName="XamarinMessagingCenter/MainPage.xaml.cs" Line="24" Column="1" />
+      <File FileName="XamarinMessagingCenter/TargetPage.xaml" Line="4" Column="33" />
+      <File FileName="XamarinMessagingCenter/TargetPage.xaml.cs" Line="6" Column="33" />
+      <File FileName="XamarinMessagingCenter/App.xaml.cs" Line="18" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinMessagingCenter.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4DA9CBF-170B-441C-AEFF-5F4291F473E6" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinMessagingCenter.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
